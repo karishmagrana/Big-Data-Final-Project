@@ -1,0 +1,106 @@
+[
+    {
+        "Claim": "The Earth's climate is not changing as a result of human activities. ",
+        "Evidence": "The Earth's climate has been changing naturally for millions of years, and there is no scientific consensus on the extent to which human activities are contributing to current climate change. "
+    },
+    {
+        "Claim": "The IPCC's reports are politically motivated and do not accurately reflect the state of the science. ",
+        "Evidence": "The IPCC is an intergovernmental organization that brings together thousands of scientists from around the world to review and synthesize the latest research on climate change. "
+    },
+    {
+        "Claim": "The Earth's temperature has not increased significantly since the year 2000. ",
+        "Evidence": "The Earth's temperature has continued to rise since the year 2000, with 2020 being the hottest year on record. "
+    },
+    {
+        "Claim": "'Climate change is a hoax' is a myth \u2014 so say 80 graphs from 58 peer-reviewed scientific papers published in 2017. ",
+        "Evidence": "Delingpole has engaged in climate change denialism; in 2009 he wrote of \"The conspiracy behind the Anthropogenic Global Warming myth\". "
+    },
+    {
+        "Claim": "'Clean coal' is an approach in which the emissions from coal-burning power plants would be captured and pumped underground. ",
+        "Evidence": "Carbon capture and storage (CCS) (or carbon capture and sequestration or carbon control and sequestration) is the process of capturing waste carbon dioxide (CO 2) usually from large point sources, such as a cement factory or biomass power plant, transporting it to a storage site, and depositing it where it will not enter the atmosphere, normally an underground geological formation. "
+    },
+    {
+        "Claim": "policies based on previous climate model output and predictions might need to be reconsidered ",
+        "Evidence": "The 2017 United States-published National Climate Assessment notes that \"climate models may still be underestimating or missing relevant feedback processes\". "
+    },
+    {
+        "Claim": "The number of hurricanes has not increased globally. ",
+        "Evidence": "The global number of hurricanes has remained relatively constant since the 1970s, although there has been an increase in the number of Category 4 and 5 hurricanes in some basins. "
+    },
+    {
+        "Claim": "The increase in global temperatures is primarily due to natural causes. ",
+        "Evidence": "The increase in global temperatures is primarily due to human activities, such as the burning of fossil fuels and deforestation. "
+    },
+    {
+        "Claim": "The oceans are not warming as predicted by IPCC. ",
+        "Evidence": "According to the latest data from the Argo program, the oceans have warmed by about 0.09\u00b0C per year since 1970, which is less than half of the IPCC's predicted warming rate of 0.20\u00b0C per year. "
+    },
+    {
+        "Claim": "The increase in extreme weather events is not caused by climate change. ",
+        "Evidence": "The IPCC has found that there is evidence for an increase in some types of extreme weather events, such as heatwaves, droughts, and heavy rainfall, that is consistent with what is expected from human-caused climate change. "
+    },
+    {
+        "Claim": "The IPCC is not a reliable source of information on climate change. ",
+        "Evidence": "The IPCC is a global organization that brings together the world's leading climate scientists to produce authoritative reports on the state of the science of climate change. Its reports are widely regarded as the most authoritative source of information on climate change. "
+    },
+    {
+        "Claim": "The figure traditionally cited that suggests 97 per cent of climate scientists agree that global warming is man-made was also found to be flawed. ",
+        "Evidence": "The authors found that 3974 of the abstracts expressed a position on anthropogenic global warming, and that 97.1% of those endorsed the consensus that humans are causing global warming. "
+    },
+    {
+        "Claim": "\"The climate is always changing, so it's not clear that the current warming trend is caused by human activity. ",
+        "Evidence": "The current warming trend is consistent with the expected response to increasing greenhouse gas concentrations, and there is no known natural mechanism that could cause such a rapid warming. "
+    },
+    {
+        "Claim": "\"The climate has always changed, so it's not clear that the current warming trend is a problem. ",
+        "Evidence": "The current warming trend is causing significant impacts on ecosystems, agriculture, and human health, and it is likely to continue and even accelerate in the future. "
+    },
+    {
+        "Claim": "\"The climate models used to predict future warming are unreliable, and they have been proven wrong in the past. ",
+        "Evidence": "Climate models have been tested and validated using a wide range of observations, and they have proven to be highly accurate in predicting the current warming trend and its impacts. "
+    },
+    {
+        "Claim": "The Earth's temperature has not increased since 1998. ",
+        "Evidence": "According to NASA, the Earth's temperature has continued to rise since 1998, with the last decade being the warmest on record. "
+    },
+    {
+        "Claim": "The Arctic sea ice is melting at an alarming rate. ",
+        "Evidence": "According to NASA, the Arctic sea ice has decreased by 80% since the 1970s. "
+    },
+    {
+        "Claim": "The global temperature has not increased since the year 2000. ",
+        "Evidence": "The Intergovernmental Panel on Climate Change (IPCC) reports that the global temperature has continued to rise since the year 2000. "
+    },
+    {
+        "Claim": "The increase in atmospheric CO2 is not causing global warming. ",
+        "Evidence": "The IPCC reports that the increase in atmospheric CO2 is directly correlated with the increase in global temperatures. "
+    },
+    {
+        "Claim": "The IPCC reports underestimate the severity of climate change. ",
+        "Evidence": "The IPCC reports have been criticized for being too conservative in their projections of sea level rise, temperature increase, and other impacts of climate change. "
+    },
+    {
+        "Claim": "\u201cThe ozone hole over Antarctica is getting smaller, so we don't need to worry about it anymore.\u201d ",
+        "Evidence": "The ozone hole is still a major concern, as it can cause skin cancer, cataracts, and other health problems. Additionally, the ozone hole has been linked to changes in weather patterns, which can have significant impacts on agriculture and other industries. "
+    },
+    {
+        "Claim": "\u201cThe use of renewable energy sources, such as solar and wind power, is not practical or cost-effective.\u201d ",
+        "Evidence": "The cost of renewable energy has been decreasing rapidly, and many countries are already using these sources to generate electricity. Additionally, renewable energy sources do not produce greenhouse gas emissions, which can help mitigate climate change. "
+    },
+    {
+        "Claim": "\u201cThe Earth's climate has always been changing, so there is nothing unusual or unnatural about the current warming trend.\u201d ",
+        "Evidence": "While the Earth's climate has changed in the past, the current warming trend is occurring at a much faster rate than any previous natural climate change event. Additionally, the warming is primarily caused by human activities, such as burning fossil fuels and deforestation. "
+    },
+    {
+        "Claim": "Nuclear power is a clean and efficient way to generate electricity, and it does not produce greenhouse gas emissions. ",
+        "Evidence": "Nuclear power plants do not emit any greenhouse gases during operation, and they are highly efficient at converting fuel into electricity. However, there are concerns about the disposal of nuclear waste and the risk of accidents. "
+    },
+    {
+        "Claim": "The Antarctic ice sheet is melting at a slower rate than previously thought. ",
+        "Evidence": "A study published in Nature Geoscience found that the Antarctic ice sheet is melting at a rate of 150 cubic kilometers per year, which is slower than previous estimates. "
+    },
+    {
+        "Claim": "Severe storms, floods and agricultural losses may cost a great deal of money, but such extreme weather events\u2014and their resulting costs\u2014are dramatically declining as the Earth modestly warms. ",
+        "Evidence": "Climate change caused by human activities that emit greenhouse gases into the air is expected to affect the frequency of extreme weather events such as drought, extreme temperatures, flooding, high winds, and severe storms. "
+    }
+]
