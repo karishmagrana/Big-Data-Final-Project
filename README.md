@@ -22,7 +22,7 @@ python -m streamlit run ui/Home.py
 
 ![evo](assets/evo.png)
 
-With the UI open, you simply upload your seed files (make sure they execute properly) and static prepend code (if you have any) and click on Evolve.
+With the UI open, you simply upload your seed files (make sure they execute properly) and static prepend code (if you have any), enter your OpenAI API key and click Evolve.
 
 ## Synthetic Data Generation
 
