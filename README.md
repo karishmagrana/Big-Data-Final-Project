@@ -24,6 +24,8 @@ python -m streamlit run ui/Home.py
 
 Our Synthetic data and the scripts used to generate it can both be found in the `synthetic_data` directory.
 
+With the base Climate-FEVER dataset being approx 7000 data points in size, we generated a total of 3000 new datapoints - thus extending the original dataset's size by over 42%.
+
 ## Pruning
 
 ## Quantization
