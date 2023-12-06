@@ -24,6 +24,16 @@ python -m streamlit run ui/Home.py
 
 With the UI open, you simply upload your seed files (make sure they execute properly) and static prepend code (if you have any), enter your OpenAI API key and click Evolve.
 
+We used EvoFormer to generate more efficient Transformer-based models for classification. The models produced were able to perform quite well given their low parameter counts.
+
+|                                   | Number of Parameters | F1 Score | Accuracy |
+|-----------------------------------|----------------------|----------|----------|
+| ClimateBERT (SOTA)                | 82 M                 | 0.757    | N/A      |
+| Best Seed Model                   | 11 M                 | 0.654    | 65%      |
+| EvoFormer - Largest Model         | 19 M                 | 0.652    | 63.8%    |
+| EvoFormer - Best Handpicked Model | 5.7 M                | 0.645    | 63.6%    |
+| EvoFormer - 0 Temperature Model   | 11.6 M               | 0.638    | 63.8%    |
+
 ## Synthetic Data Generation
 
 Our Synthetic data and the scripts used to generate it can both be found in the `synthetic_data` directory.
