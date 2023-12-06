@@ -20,6 +20,10 @@ cd src
 python -m streamlit run ui/Home.py
 ```
 
+![evo](assets/evo.png)
+
+With the UI open, you simply upload your seed files (make sure they execute properly) and static prepend code (if you have any) and click on Evolve.
+
 ## Synthetic Data Generation
 
 Our Synthetic data and the scripts used to generate it can both be found in the `synthetic_data` directory.
