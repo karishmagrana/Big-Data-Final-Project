@@ -22,6 +22,8 @@ python -m streamlit run ui/Home.py
 
 ## Synthetic Data Generation
 
+Our Synthetic data and the scripts used to generate it can both be found in the `synthetic_data` directory.
+
 ## Pruning
 
 ## Quantization
