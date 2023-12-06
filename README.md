@@ -19,3 +19,9 @@ pip install -r requirements.txt
 cd src
 python -m streamlit run ui/Home.py
 ```
+
+## Synthetic Data Generation
+
+## Pruning
+
+## Quantization
