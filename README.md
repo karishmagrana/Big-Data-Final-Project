@@ -42,4 +42,6 @@ With the base Climate-FEVER dataset being approx 7000 data points in size, we ge
 
 ## Pruning
 
+Pruning was implemented for this project through the PyTorch global unstructured pruning method. Pruning was implemented on two models generated from EvoFormer. Both are different sizes, the larger one can be found at `pruning/BigModelPruning.ipynb` and the smaller model can be found at `pruning/SmallModelPruning.ipynb`. Our initial attempt at pruning BERT for experimentation purposes is located at `pruning/TextPruningonBert.ipynb`.
+
 ## Quantization
