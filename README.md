@@ -44,7 +44,15 @@ With the base Climate-FEVER dataset being approx 7000 data points in size, we ge
 
 ## Pruning
 
-Pruning was implemented for this project through the PyTorch global unstructured pruning method. Pruning was implemented on two models generated from EvoFormer. Both are different sizes, the larger one can be found at `pruning/BigModelPruning.ipynb` and the smaller model can be found at `pruning/SmallModelPruning.ipynb`. Our initial attempt at pruning BERT for experimentation purposes is located at `pruning/TextPruningonBert.ipynb`.
+Pruning was implemented for this project through the PyTorch global unstructured pruning method. Pruning was implemented on two models generated from EvoFormer. Both are different sizes, the larger one can be found at `pruning/BigModelPruning.ipynb` and the smaller model can be found at `pruning/SmallModelPruning.ipynb`. Our initial attempt at pruning BERT for experimentation purposes is located at `pruning/TextPruningonBert.ipynb`. Here are the results of the pruning: 
+
+|                                   |  No Pruning Accuracy |   Pruning Accuracy  |
+|-----------------------------------|----------------------|---------------------|  
+| Small model (20% sample of data) | 80.00%|82.67%|
+|Small model (all data) | 63.44% | 64.22% |
+| Large model (20% sample of data) | 75.67% | 78.00% |
+| Large model (all data) | 64.26% |64.79%|
+
 
 In order to run the pruning methods, the dataset path must be updated based on personal use and all cells run. This should display a comparison of the model accuracy without pruning and with pruning.
 
