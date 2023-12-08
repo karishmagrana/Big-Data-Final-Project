@@ -8,7 +8,7 @@ Our EvoFormer was implemented mostly from scratch, and the initial experimental 
 
 Apart from this, we have implemented EvoFormer both as a clean class implementation and a Streamlit-based GUI.
 
-The EvoFormer class can be found in `evoprompting/evoformer.py`
+Our implementation can be found in `evoprompting/evolutionary/evoprompting`
 
 To execute it on your system, we recommend using our custom GUI which provides an easy-to-use interface:
 
@@ -16,7 +16,7 @@ To execute it on your system, we recommend using our custom GUI which provides a
 git clone https://github.com/karishmagrana/Big-Data-Final-Project
 cd evoprompting
 pip install -r requirements.txt
-cd src
+cd evoprompting
 python -m streamlit run ui/Home.py
 ```
 
