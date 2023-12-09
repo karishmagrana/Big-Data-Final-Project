@@ -16,7 +16,6 @@ To execute it on your system, we recommend using our custom GUI which provides a
 git clone https://github.com/karishmagrana/Big-Data-Final-Project
 cd evoprompting
 pip install -r requirements.txt
-cd evoprompting
 python -m streamlit run ui/Home.py
 ```
 
