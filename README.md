@@ -22,7 +22,9 @@ python -m streamlit run ui/Home.py
 
 ![evo](assets/evo.png)
 
-With the UI open, you simply upload your seed files (make sure they execute properly) and static prepend code (if you have any), enter your OpenAI API key and click Evolve.
+With the UI open, you go to the "Evolution" tab, simply upload your seed files (make sure they execute properly) and static prepend code (if you have any), enter your OpenAI API key and click Evolve.
+
+Warning: the evolution process will likely take a very long time to complete regardless of your systems specs - it depends on OpenAI's API, which is rate-limited.
 
 We used EvoFormer to generate more efficient Transformer-based models for classification. The models produced were able to perform quite well given their low parameter counts.
 
